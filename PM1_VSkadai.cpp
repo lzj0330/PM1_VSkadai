@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Visua|Studio Git!\n";
+    std::cout << "リモートリポジトリで変更した場所\n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
